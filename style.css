@@ -1,0 +1,12 @@
+img {
+    height: 800px;
+    width: 800px;
+
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    background-repeat: no-repeat;
+}
